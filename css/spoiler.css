@@ -23,11 +23,11 @@
 }
 
 .spoiler.collapsed .spoiler-title:before {
-    content: "Show ";
+    content: "点击显示: ";
 }
 
 .spoiler.expanded .spoiler-title:before {
-    content: "Hide ";
+    content: "点击隐藏: ";
 }
 
 .spoiler .spoiler-content {
