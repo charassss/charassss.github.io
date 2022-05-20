@@ -1,6 +1,5 @@
-h3 {
-    font-family: "楷体", serif;
-    font-size: 40px;
-    color: yellow;
-    background-color: aqua;
+.title {
+    font-size: 2.0em;
+    color: BLACK;
+    background-color: gray;
 }
